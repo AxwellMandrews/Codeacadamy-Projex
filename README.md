@@ -1,2 +1,2 @@
-# Grader-CA
-A simple grader programme that turns numerical mark into a letter grade.
+# Codeacadamy projects
+A collection of python projects attempted after each module on the website.
